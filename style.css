@@ -65,6 +65,11 @@ section{
     cursor: pointer;
 }
 
+.usd_met{
+    font-weight: 700;
+    font-size: medium;
+}
+
 .btn:hover{
     color: #fff;
     background: #eb4d4b;
